@@ -31,16 +31,20 @@ In my spare time, I also try to write some useful tools for myself, and have mor
 
 ### Recently I'm coding in...
 
-| Project                                                                         | Status                                                | Release                                                                                                                                            |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [leoli0605/docker-hugo](https://github.com/leoli0605/docker-hugo)               | ![Progress](https://progress-bar.dev/100/?title=done) | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo) |
-| [leoli0605/PyWidgets](https://github.com/leoli0605/PyWidgets)                   | ![Progress](https://progress-bar.dev/50/?title=funds) |                                                                                                                                                    |
-| [leoli0605/hex2dfu](https://github.com/leoli0605/hex2dfu)                       | ![Progress](https://progress-bar.dev/95/?title=funds) |                                                                                                                                                    |
-| [leoli0605/markdown-converter](https://github.com/leoli0605/markdown-converter) | ![Progress](https://progress-bar.dev/30/?title=funds) |                                                                                                                                                    |
-| [leoli0605/stm32_ll_lib](https://github.com/leoli0605/stm32_ll_lib)             | ![Progress](https://progress-bar.dev/0/?title=todo)   |                                                                                                                                                    |
-| [leoli0605/ZBar-demo](https://github.com/leoli0605/ZBar-demo)                   | ![Progress](https://progress-bar.dev/50/?title=funds) | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/leoli0605/ZBar-demo)](#)                                               |
-| [leoli0605/TinyISP](https://github.com/leoli0605/TinyISP)                       | ![Progress](https://progress-bar.dev/0/?title=todo)   |                                                                                                                                                    |
-| [leoli0605/TinyUtils](https://github.com/leoli0605/TinyUtils)                   | ![Progress](https://progress-bar.dev/0/?title=todo)   |                                                                                                                                                    |
-| [leoli0605/DotNet.Utils](https://github.com/leoli0605/DotNet.Utils)             | ![Progress](https://progress-bar.dev/0/?title=todo)   |                                                                                                                                                    |
-| [leoli0605/hello_DALL-E](https://github.com/leoli0605/hello_DALL-E)             | ![Progress](https://progress-bar.dev/0/?title=todo)   |                                                                                                                                                    |
-| [leoli0605/hello_FreeRTOS](https://github.com/leoli0605/hello_FreeRTOS)         | ![Progress](https://progress-bar.dev/0/?title=todo)   |                                                                                                                                                    |
+| Project                                                               | Status                                                 |
+| --------------------------------------------------------------------- | ------------------------------------------------------ |
+| [leoli0605/c_image](https://github.com/leoli0605/c_image)             | ![Progress](https://progress-bar.dev/1/?title=ongoing) |
+| [leoli0605/vscode-openai](https://github.com/leoli0605/vscode-openai) | ![Progress](https://progress-bar.dev/0/?title=todo)    |
+| [leoli0605/DotNet.Utils](https://github.com/leoli0605/DotNet.Utils)   | ![Progress](https://progress-bar.dev/0/?title=todo)    |
+| [leoli0605/EasyGantt](https://github.com/leoli0605/EasyGantt)         | ![Progress](https://progress-bar.dev/0/?title=todo)    |
+
+### Projects I've contributed to
+
+| Project                                                               | -                                                                                                                                                  |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [leoli0605/docker-hugo](https://github.com/leoli0605/docker-hugo)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo) |
+| [leoli0605/pywidgets-ext](https://github.com/leoli0605/pywidgets-ext) | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                          |
+
+### Embedded Engineer Roadmap
+
+[![Embedded Engineer Roadmap](./assets/Embedded-Engineering-Roadmap.drawio.png)](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
