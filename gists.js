@@ -18,7 +18,7 @@ fetch(`https://api.github.com/users/leoli0605/gists`)
       readme.indexOf("<!-- GISTS_START -->") + "<!-- GISTS_START -->".length
     );
     let after = readme.substring(readme.indexOf("<!-- GISTS_END -->"));
-    fs.writeFileSync("README.md", `${before}\n${markdown}\n${after}`);
+    fs.writeFileSync("README.md", `${before}\n\n${markdown}\n${after}`);
   })
   .catch((error) => {
     console.log(error);
