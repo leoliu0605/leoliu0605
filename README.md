@@ -30,19 +30,20 @@ In my spare time, I also try to write some useful tools for myself, and have mor
 
 ### Recently I'm coding in...
 
-| Project                                                               | Status                                                 |
-| --------------------------------------------------------------------- | ------------------------------------------------------ |
-| [leoli0605/c_image](https://github.com/leoli0605/c_image)             | ![Progress](https://progress-bar.dev/1/?title=ongoing) |
-| [leoli0605/vscode-openai](https://github.com/leoli0605/vscode-openai) | ![Progress](https://progress-bar.dev/0/?title=todo)    |
-| [leoli0605/DotNet.Utils](https://github.com/leoli0605/DotNet.Utils)   | ![Progress](https://progress-bar.dev/0/?title=todo)    |
-| [leoli0605/EasyGantt](https://github.com/leoli0605/EasyGantt)         | ![Progress](https://progress-bar.dev/0/?title=todo)    |
+| Project                                                     | Status                                                 |
+| ----------------------------------------------------------- | ------------------------------------------------------ |
+| [Hello_STM32F723](https://github.com/leoli0605/Hello_STM32F723)             | ![Progress](https://progress-bar.dev/10/?title=ongoing) |
+| [vscode-openai](https://github.com/leoli0605/vscode-openai) | ![Progress](https://progress-bar.dev/50/?title=ongoing)    |
+| [DotNet.Utils](https://github.com/leoli0605/DotNet.Utils)   | ![Progress](https://progress-bar.dev/0/?title=todo)    |
+| [EasyGantt](https://github.com/leoli0605/EasyGantt)         | ![Progress](https://progress-bar.dev/0/?title=todo)    |
 
 ### Projects I've contributed to
 
-| Project                                                               | -                                                                                                                                                  |
-| --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [leoli0605/docker-hugo](https://github.com/leoli0605/docker-hugo)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo) |
-| [leoli0605/pywidgets-ext](https://github.com/leoli0605/pywidgets-ext) | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                          |
+| Project                                                                           | -                                                                                                                                                                            |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [docker-hugo](https://github.com/leoli0605/docker-hugo)                           | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo)                           |
+| [docker-arm-none-eabi-gcc](https://github.com/leoli0605/docker-arm-none-eabi-gcc) | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc) |
+| [pywidgets-ext](https://github.com/leoli0605/pywidgets-ext)                       | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                                                    |
 
 ### Embedded Engineer Roadmap
 
