@@ -32,6 +32,7 @@ In my spare time, I also try to write some useful tools for myself, and have mor
 | [docker-arm-none-eabi-gcc](https://github.com/leoli0605/docker-arm-none-eabi-gcc)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc)    |
 | [pywidgets-ext](https://github.com/leoli0605/pywidgets-ext)                           | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                                                       |
 | [vscode-bettergpt-extension](https://github.com/leoli0605/vscode-bettergpt-extension) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/LeoLi.bettergpt)](https://marketplace.visualstudio.com/items?itemName=LeoLi.bettergpt) |
+| [npm-git-setup](https://github.com/leoli0605/npm-git-setup)                           | [![npm](https://img.shields.io/npm/v/@leoli0605/git-setup)](https://www.npmjs.com/package/@leoli0605/git-setup)                                                                 |
 
 ### Embedded Engineer Roadmap
 
