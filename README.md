@@ -24,23 +24,20 @@ In my spare time, I also try to write some useful tools for myself, and have mor
 - [enum_extension.linq](https://gist.github.com/leoli0605/67ab7ec61bf7fb8510eec7be6fbf0c6a)
 <!-- GISTS_END -->
 
-### Recently I'm coding in...
-
-| Project                                                     | Status                                                 |
-| ----------------------------------------------------------- | ------------------------------------------------------ |
-| [Hello_STM32F723](https://github.com/leoli0605/Hello_STM32F723)             | ![Progress](https://progress-bar.dev/10/?title=ongoing) |
-| [vscode-openai](https://github.com/leoli0605/vscode-openai) | ![Progress](https://progress-bar.dev/50/?title=ongoing)    |
-| [DotNet.Utils](https://github.com/leoli0605/DotNet.Utils)   | ![Progress](https://progress-bar.dev/0/?title=todo)    |
-| [EasyGantt](https://github.com/leoli0605/EasyGantt)         | ![Progress](https://progress-bar.dev/0/?title=todo)    |
-
 ### Projects I've contributed to
 
-| Project                                                                           | -                                                                                                                                                                            |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [docker-hugo](https://github.com/leoli0605/docker-hugo)                           | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo)                           |
-| [docker-arm-none-eabi-gcc](https://github.com/leoli0605/docker-arm-none-eabi-gcc) | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc) |
-| [pywidgets-ext](https://github.com/leoli0605/pywidgets-ext)                       | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                                                    |
+| Project                                                                               | -                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [docker-hugo](https://github.com/leoli0605/docker-hugo)                               | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo)                              |
+| [docker-arm-none-eabi-gcc](https://github.com/leoli0605/docker-arm-none-eabi-gcc)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc)    |
+| [pywidgets-ext](https://github.com/leoli0605/pywidgets-ext)                           | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                                                       |
+| [vscode-bettergpt-extension](https://github.com/leoli0605/vscode-bettergpt-extension) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/LeoLi.bettergpt)](https://marketplace.visualstudio.com/items?itemName=LeoLi.bettergpt) |
 
 ### Embedded Engineer Roadmap
 
 [![Embedded Engineer Roadmap](./assets/Embedded-Engineering-Roadmap.drawio.png)](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+
+### Other
+
+- [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+- [Full-Stack-Roadmap](https://roadmap.sh/full-stack)
