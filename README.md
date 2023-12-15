@@ -16,7 +16,6 @@ In my spare time, I also try to write some useful tools for myself, and have mor
 
 <!-- GISTS_START -->
 
-- [README-Template.md](https://gist.github.com/leoli0605/7c597db4319a12eabfc1414d96dfb847)
 - [c-sharp-debug-sample.linq](https://gist.github.com/leoli0605/a953348cd56c2e4c467b231ce6f715a4)
 - [multi-thread-sample.linq](https://gist.github.com/leoli0605/2a6bf8b652bac790c801f0c99e13cac0)
 - [AnyImageToGrayBitmap.linq](https://gist.github.com/leoli0605/a369aeb6dee7fbba7ede0f590b71b7ec)
