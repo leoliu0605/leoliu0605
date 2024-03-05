@@ -1,10 +1,10 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Leo, a system engineer from Taiwan.
+Welcome to my GitHub profile! I'm Leo, a seasoned System Engineer hailing from Taiwan.
 
-Mainly write embedded systems and corresponding desktop applications, currently mainly using C/C++, C#, Python and other languages.
+I specialize in writing embedded systems and corresponding desktop applications. My primary programming languages are C/C++, C#, and Python. I am passionate about creating efficient, high-performing, and user-friendly applications.
 
-In my spare time, I also try to write some useful tools for myself, and have more experience in Full Stack development.
+In my leisure time, I love to create useful tools for personal use, which has led me to gain substantial experience in Full Stack development. This hobby allows me to explore new technologies and keep my skills up-to-date.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoli0605&show_icons=true&theme=radical)
 
@@ -37,3 +37,5 @@ In my spare time, I also try to write some useful tools for myself, and have mor
 
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 - [Full-Stack-Roadmap](https://roadmap.sh/full-stack)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!
