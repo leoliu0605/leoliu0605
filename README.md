@@ -28,6 +28,7 @@ In my leisure time, I love to create useful tools for personal use, which has le
 | [pywidgets-ext](https://github.com/leoli0605/pywidgets-ext)                           | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                                                       |
 | [vscode-bettergpt-extension](https://github.com/leoli0605/vscode-bettergpt-extension) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/LeoLi.bettergpt)](https://marketplace.visualstudio.com/items?itemName=LeoLi.bettergpt) |
 | [npm-git-setup](https://github.com/leoli0605/npm-git-setup)                           | [![npm](https://img.shields.io/npm/v/@leoli0605/git-setup)](https://www.npmjs.com/package/@leoli0605/git-setup)                                                                 |
+| [npm-env-setup](https://github.com/DinosauriaLab/npm-env-setup)                       | [![GitHub Release](https://img.shields.io/github/v/release/DinosauriaLab/npm-env-setup)](https://github.com/DinosauriaLab/npm-env-setup/releases/latest)                        |
 
 ### Embedded Engineer Roadmap
 
