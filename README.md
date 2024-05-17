@@ -69,7 +69,7 @@ A passionate firmware/embedded developer from Taiwan
 
 <!-- GISTS_START -->
 
-
+- [intl.js](https://gist.github.com/leoli0605/44dbc658c5ded573054cd409102312c8)
 <!-- GISTS_END -->
 
 ## 🚩 Projects I've contributed to
