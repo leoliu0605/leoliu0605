@@ -2,13 +2,16 @@
 
 A passionate firmware/embedded developer from Taiwan
 
-![leoli0605](https://github-readme-stats.vercel.app/api?username=leoli0605&show_icons=true&locale=en)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leoli0605&show_icons=true&locale=en&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoli0605&show_icons=true&locale=en&layout=compact&theme=gruvbox" />
+</a>
 
-![leoli0605](https://github-readme-streak-stats.herokuapp.com/?user=leoli0605&)
+![leoli0605](https://github-readme-streak-stats.herokuapp.com/?user=leoli0605&&theme=gruvbox)
 
-![leoli0605](https://github-readme-stats.vercel.app/api/top-langs?username=leoli0605&show_icons=true&locale=en&layout=compact)
-
-[![leoli0605](https://github-profile-trophy.vercel.app/?username=leoli0605)](https://github.com/ryo-ma/github-profile-trophy)
+[![leoli0605](https://github-profile-trophy.vercel.app/?username=leoli0605&row=2&column=4&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Languages and Tools I Use
 
