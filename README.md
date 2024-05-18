@@ -1,6 +1,6 @@
 # Hi 👋, I'm Leo
 
-A passionate firmware/embedded developer from Taiwan
+A passionate firmware/embedded/full-stack developer from Taiwan
 
 ![leoli0605](https://github-readme-stats.vercel.app/api?username=leoli0605&show_icons=true&locale=en&theme=gruvbox&card_width=440)
 
