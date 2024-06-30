@@ -72,6 +72,7 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 
 <!-- GISTS_START -->
 
+- [brew upgrade fully](https://gist.github.com/leoli0605/5dbae2028f39b56e7aad753231faef4f)
 - [intl.js](https://gist.github.com/leoli0605/44dbc658c5ded573054cd409102312c8)
 <!-- GISTS_END -->
 
