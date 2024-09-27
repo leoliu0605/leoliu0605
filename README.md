@@ -106,6 +106,6 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 
 ## ❤️ Support Me
 
-[![buymeacoffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/leoli)
+[![sponsor](./assets/BobaMe.png)](https://leo0605.bobaboba.me)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!
