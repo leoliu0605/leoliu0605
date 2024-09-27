@@ -72,10 +72,9 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 
 <!-- GISTS_START -->
 
+- [ubuntu-system-management.md](https://gist.github.com/leoli0605/80f6a78b57dfbe431616edf89f4cc28d)
 - [github_alerts.md](https://gist.github.com/leoli0605/3dfad8f972656044b428ee657b8f155e)
-- [rsync.sh](https://gist.github.com/leoli0605/9296d3af3f9812c161c1ecfc2a70fbcb)
 - [waveshare_fan_hat_setup.sh](https://gist.github.com/leoli0605/3fdf977e7211bab6447b216d70f901d4)
-- [brew upgrade fully](https://gist.github.com/leoli0605/5dbae2028f39b56e7aad753231faef4f)
 - [intl.js](https://gist.github.com/leoli0605/44dbc658c5ded573054cd409102312c8)
 <!-- GISTS_END -->
 
