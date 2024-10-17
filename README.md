@@ -78,17 +78,15 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 - [intl.js](https://gist.github.com/leoli0605/44dbc658c5ded573054cd409102312c8)
 <!-- GISTS_END -->
 
-## 🚩 Projects I've contributed to
+## 🚩 The project I developed
 
-| Project                                                                               | -                                                                                                                                                                               |     -      |
-| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
-| [docker-hugo](https://github.com/leoli0605/docker-hugo)                               | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo)                              |            |
-| [docker-arm-none-eabi-gcc](https://github.com/leoli0605/docker-arm-none-eabi-gcc)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc)    |            |
-| [pywidgets-ext](https://github.com/leoli0605/pywidgets-ext)                           | [![PyPI - Version](https://img.shields.io/pypi/v/pywidgets-ext)](https://pypi.org/project/pywidgets-ext/)                                                                       |    EOL     |
-| [vscode-bettergpt-extension](https://github.com/leoli0605/vscode-bettergpt-extension) | [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/LeoLi.bettergpt)](https://marketplace.visualstudio.com/items?itemName=LeoLi.bettergpt) | Deprecated |
-| [npm-git-setup](https://github.com/leoli0605/npm-git-setup)                           | [![npm](https://img.shields.io/npm/v/@leoli0605/git-setup)](https://www.npmjs.com/package/@leoli0605/git-setup)                                                                 |            |
-| [npm-env-setup](https://github.com/DinosauriaLab/npm-env-setup)                       | [![GitHub Release](https://img.shields.io/github/v/release/DinosauriaLab/npm-env-setup)](https://github.com/DinosauriaLab/npm-env-setup/releases/latest)                        |            |
-
+| Project                                                                               | -                                                                                                                                                                               |                                                                  -                                                                  |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: |
+| [docker-hugo](https://github.com/leoli0605/docker-hugo)                               | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo)                              | ![hugo](https://github.com/leoli0605/docker-hugo/actions/workflows/publish.yml/badge.svg)                                           |
+| [docker-arm-none-eabi-gcc](https://github.com/leoli0605/docker-arm-none-eabi-gcc)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc)    | ![jafee201153/arm-none-eabi-gcc](https://github.com/leoli0605/docker-arm-none-eabi-gcc/actions/workflows/publish.yml/badge.svg)     |
+| [npm-git-setup](https://github.com/leoli0605/npm-git-setup)                           | [![npm](https://img.shields.io/npm/v/@leoli0605/git-setup)](https://www.npmjs.com/package/@leoli0605/git-setup)                                                                 |                                                                                                                                     |
+| [npm-env-setup](https://github.com/DinosauriaLab/npm-env-setup)                       | [![GitHub Release](https://img.shields.io/github/v/release/DinosauriaLab/npm-env-setup)](https://github.com/DinosauriaLab/npm-env-setup/releases/latest)                        |                                                                                                                                     |
+          
 ## ⚡️ Where to find me
 
 [![linkedin](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6)](https://www.linkedin.com/in/chih-hung-li)
