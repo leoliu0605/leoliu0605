@@ -87,11 +87,6 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 | [docker-arm-none-eabi-gcc](https://github.com/leoliu0605/docker-arm-none-eabi-gcc)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc)    | ![jafee201153/arm-none-eabi-gcc](https://github.com/leoliu0605/docker-arm-none-eabi-gcc/actions/workflows/publish.yml/badge.svg)     |
 | [npm-git-setup](https://github.com/leoliu0605/npm-git-setup)                           | [![npm](https://img.shields.io/npm/v/@leoli0605/git-setup)](https://www.npmjs.com/package/@leoli0605/git-setup)                                                                 |                                                                                                                                     |
 | [npm-env-setup](https://github.com/DinosauriaLab/npm-env-setup)                       | [![GitHub Release](https://img.shields.io/github/v/release/DinosauriaLab/npm-env-setup)](https://github.com/DinosauriaLab/npm-env-setup/releases/latest)                        |                                                                                                                                     |
-          
-## ⚡️ Where to find me
-
-[![linkedin](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6)](https://www.linkedin.com/in/chih-hung-li)
-[![instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369)](https://www.instagram.com/leoli.tech)
 
 ## 🗺️ Embedded Engineer Roadmap
 
@@ -102,9 +97,5 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 - [Full-Stack-Roadmap](https://roadmap.sh/full-stack)
 - [Github Profile Generator](https://github.com/wuyasong/github-profile-generator)
-
-## ❤️ Support Me
-
-[![sponsor](./assets/BobaMe.png)](https://leo0605.bobaboba.me)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!
