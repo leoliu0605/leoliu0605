@@ -1,7 +1,7 @@
-const fetch = require("node-fetch");
-const fs = require("fs");
+import fetch from "node-fetch";
+import { readFileSync, writeFileSync } from "fs";
 
-fetch(`https://api.github.com/users/leoli0605/gists`)
+fetch(`https://api.github.com/users/leoliu0605/gists`)
   .then((response) => {
     return response.json();
   })
@@ -12,13 +12,13 @@ fetch(`https://api.github.com/users/leoli0605/gists`)
         return `- [${filenames}](${gist.html_url})`;
       })
       .join("\n");
-    let readme = fs.readFileSync("README.md", "utf8");
+    let readme = readFileSync("README.md", "utf8");
     let before = readme.substring(
       0,
       readme.indexOf("<!-- GISTS_START -->") + "<!-- GISTS_START -->".length
     );
     let after = readme.substring(readme.indexOf("<!-- GISTS_END -->"));
-    fs.writeFileSync("README.md", `${before}\n\n${markdown}\n${after}`);
+    writeFileSync("README.md", `${before}\n\n${markdown}\n\n${after}`);
   })
   .catch((error) => {
     console.log(error);
