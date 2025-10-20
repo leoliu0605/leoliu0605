@@ -72,11 +72,8 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 
 <!-- GISTS_START -->
 
-- [cat.c](https://gist.github.com/leoliu0605/099b14738a7df6f2b86bc4f0b8f1718b)
-- [ubuntu-system-management.md](https://gist.github.com/leoliu0605/80f6a78b57dfbe431616edf89f4cc28d)
 - [github_alerts.md](https://gist.github.com/leoliu0605/3dfad8f972656044b428ee657b8f155e)
-- [waveshare_fan_hat_setup.sh](https://gist.github.com/leoliu0605/3fdf977e7211bab6447b216d70f901d4)
-- [intl.js](https://gist.github.com/leoliu0605/44dbc658c5ded573054cd409102312c8)
+
 <!-- GISTS_END -->
 
 ## 🚩 The project I developed
