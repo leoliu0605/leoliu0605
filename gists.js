@@ -1,4 +1,3 @@
-import fetch from "node-fetch";
 import { readFileSync, writeFileSync } from "fs";
 
 fetch(`https://api.github.com/users/leoliu0605/gists`)
