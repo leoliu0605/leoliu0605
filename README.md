@@ -85,17 +85,13 @@ A passionate firmware/embedded/full-stack developer from Taiwan
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: |
 | [docker-hugo](https://github.com/leoliu0605/docker-hugo)                               | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/hugo?sort=semver)](https://hub.docker.com/r/jafee201153/hugo)                              | ![hugo](https://github.com/leoliu0605/docker-hugo/actions/workflows/publish.yml/badge.svg)                                           |
 | [docker-arm-none-eabi-gcc](https://github.com/leoliu0605/docker-arm-none-eabi-gcc)     | [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/jafee201153/arm-none-eabi-gcc?sort=semver)](https://hub.docker.com/r/jafee201153/arm-none-eabi-gcc)    | ![jafee201153/arm-none-eabi-gcc](https://github.com/leoliu0605/docker-arm-none-eabi-gcc/actions/workflows/publish.yml/badge.svg)     |
-| [npm-git-setup](https://github.com/leoliu0605/npm-git-setup)                           | [![npm](https://img.shields.io/npm/v/@leoli0605/git-setup)](https://www.npmjs.com/package/@leoli0605/git-setup)                                                                 |                                                                                                                                     |
-| [npm-env-setup](https://github.com/DinosauriaLab/npm-env-setup)                       | [![GitHub Release](https://img.shields.io/github/v/release/DinosauriaLab/npm-env-setup)](https://github.com/DinosauriaLab/npm-env-setup/releases/latest)                        |                                                                                                                                     |
 
 ## 🗺️ Embedded Engineer Roadmap
 
-[![Embedded Engineer Roadmap](./assets/Embedded-Engineering-Roadmap.drawio.png)](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+<a target="_blank" href="https://github.com/m3y54m/Embedded-Engineering-Roadmap" style="display: inline-block;"><img src="./assets/Embedded-Engineering-Roadmap.drawio.png" alt="Embedded Engineer Roadmap" width="440" /></a>
 
 ## 🔗 Related Links
 
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 - [Full-Stack-Roadmap](https://roadmap.sh/full-stack)
 - [Github Profile Generator](https://github.com/wuyasong/github-profile-generator)
-
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding!
