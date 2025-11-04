@@ -2,7 +2,7 @@
 
 A passionate embedded engineer from 🇹🇼[Taiwan](https://maps.app.goo.gl/A47gkyWReZX5q1rL8).
 
-**Currently focused on contributing to [zed](https://github.com/zed-industries/zed) and looking forward to joining [Zed Industries](https://zed.dev/) as a member in 2026.**
+**Currently focused on contributing to [zed](https://github.com/zed-industries/zed).**
 
 Meanwhile, preparing to launch my first application [Calculator+](#), a feature-rich calculator app with great experiences on `Android`, `iOS`, and `macOS`, expected to meet everyone in 2026-Q2!
 
