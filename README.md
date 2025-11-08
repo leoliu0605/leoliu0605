@@ -2,7 +2,7 @@
 
 A passionate embedded engineer from 🇹🇼[Taiwan](https://maps.app.goo.gl/A47gkyWReZX5q1rL8).
 
-⚡️**Currently focused on contributing to [zed](https://github.com/zed-industries/zed) and migrating my development process from [VS Code](https://code.visualstudio.com/) to [zed](https://zed.dev/).**
+⚡️**Currently focused on contributing to [zed](https://github.com/zed-industries/zed) and migrating my development process from [VS Code](https://code.visualstudio.com/) to [Zed](https://zed.dev/).**
 
 ![leoliu0605](https://github-readme-stats.vercel.app/api?username=leoliu0605&show_icons=true&locale=en&theme=gruvbox&card_width=440)
 
