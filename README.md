@@ -35,4 +35,3 @@ A passionate embedded engineer from 🇹🇼[Taiwan](https://maps.app.goo.gl/A47
 
 - [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 - [Full-Stack-Roadmap](https://roadmap.sh/full-stack)
-- [Github Profile Generator](https://github.com/wuyasong/github-profile-generator)
