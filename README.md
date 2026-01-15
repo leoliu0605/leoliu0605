@@ -4,13 +4,13 @@ A passionate embedded engineer from 🇹🇼[Taiwan](https://maps.app.goo.gl/A47
 
 <!-- ⚡️**Currently focused on contributing to [zed](https://github.com/zed-industries/zed) and migrating my development process from [VS Code](https://code.visualstudio.com/) to [Zed](https://zed.dev/).** -->
 
-![leoliu0605](https://github-readme-stats.vercel.app/api?username=leoliu0605&show_icons=true&locale=en&theme=gruvbox&card_width=440)
+<!-- ![leoliu0605](https://github-readme-stats.vercel.app/api?username=leoliu0605&show_icons=true&locale=en&theme=gruvbox&card_width=440)
 
 ![leoliu0605](https://github-readme-streak-stats.herokuapp.com/?user=leoliu0605&&theme=gruvbox&card_width=440)
 
 ![leoliu0605](https://github-readme-stats.vercel.app/api/top-langs?username=leoliu0605&show_icons=true&locale=en&layout=compact&theme=gruvbox&card_width=440)
 
-[![leoliu0605](https://github-profile-trophy.vercel.app/?username=leoliu0605&row=2&column=4&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![leoliu0605](https://github-profile-trophy.vercel.app/?username=leoliu0605&row=2&column=4&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 🚩 Gist
 
